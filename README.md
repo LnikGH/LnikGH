@@ -7,7 +7,7 @@ Check out these repos:
 
 ![Overview of the final project](/final_project_overview.png)
 
-<!---
-LnikGH/LnikGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2. API project (AW Academy's Google Cloud course): [API project](https://github.com/LnikGH/apiprojekti.git)
+   - Team project: task was to combine two APIs into a working solution. We combined GPS location data of bars to satellite data, so you can check if a satellite is overpassing a bar of your choice. Now can you go to afterwork without worrying if your boss is watching you!
+
+![Overview of the API project](/api_project_architecture.png)
