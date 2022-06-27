@@ -2,6 +2,7 @@
 
 Check out these repos:
 
+- Final project of the Academic Work Academy's Google Cloud training course: [Final project](https://pages.github.com/).
 
 <!---
 LnikGH/LnikGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
