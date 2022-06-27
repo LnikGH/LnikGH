@@ -11,3 +11,8 @@ Check out these repos:
    - Team project: task was to combine two APIs into a working solution. We combined GPS location data of bars to satellite data, so you can check if a satellite is overpassing a bar of your choice. Now can you go to afterwork without worrying if your boss is watching you!
 
 ![Overview of the API project](/api_project_architecture.png)
+
+3. Kubernetes project (AW Academy's Google Cloud course): [Kubernetes project](https://github.com/LnikGH/konttiprojekti.git)
+   - Team project: task was to run Flask blogging app on Kubernetes. A loadbalancer distributes traffic to multiple autoscaled pods. The blog data is kept on different pod with persistent volume. 
+   
+![Overview of the Kubernetes project](/container_project_overview.jpg)  
