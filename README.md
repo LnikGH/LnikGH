@@ -8,7 +8,7 @@ Check out these repos:
 ![Overview of the final project](/final_project_overview.png)
 
 2. API project (AW Academy's Google Cloud course): [API project](https://github.com/LnikGH/apiprojekti.git)
-   - Team project: task was to combine two APIs into a working solution. We combined GPS location data of bars to satellite data, so you can check if a satellite is overpassing a bar of your choice. Now can you go to afterwork without worrying if your boss is watching you!
+   - Team project: task was to combine two APIs into a working solution. We combined GPS location data of bars to satellite data, so you can check if a satellite is overpassing a bar of your choice. Now can you go to afterwork without worrying if your boss is watching you! User can query bar status with GET method from our API. Additionally scheduled API call is done every workday of a chosen bar and results are published in a PubSub topic so your coworkers can subscribe for news about safe afterwork beers! 
 
 ![Overview of the API project](/api_project_architecture.png)
 
