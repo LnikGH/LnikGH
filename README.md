@@ -18,7 +18,7 @@ Check out these repos:
 ![Overview of the Kubernetes project](/container_project_overview.jpg)  
 
 4. Python demo app for management of laboratory's sample data: [LAB project](https://github.com/LnikGH/LIMS_poc.git)
-   - My own project: It does not always make sense to feed every sample brought by the R&D department into the sample management system, as it can easily take hours of work time. With this simple Python program, you can manage your samples and their results quickly and easily. The program also keeps a log of changes in results and samples.
+   - My own project: It does not always make sense to log every sample brought by the R&D department into the sample management system, as it can easily take hours of work time. With this simple Python program, you can manage your samples and their results quickly and easily. The program also keeps a log of changes in results and samples.
    
  ![Overview of the LIMS app](/lims_add_result_pic.png)
    
