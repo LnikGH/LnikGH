@@ -13,7 +13,7 @@ Check out these repos:
 ![Overview of the API project](/api_project_architecture.png)
 
 3. Kubernetes project (AW Academy's Google Cloud course): [Kubernetes project](https://github.com/LnikGH/konttiprojekti.git)
-   - Team project: task was to run Flask blogging app on Kubernetes. A loadbalancer distributes traffic to multiple autoscaled pods. The blog data is kept on different pod with persistent volume. 
+   - Team project: task was to run Flask blogging app on Kubernetes. A load balancer distributes traffic to multiple autoscaled pods. The blog data is kept on different pod with persistent volume. 
    
 ![Overview of the Kubernetes project](/container_project_overview.jpg)  
 
